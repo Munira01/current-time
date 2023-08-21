@@ -1,0 +1,19 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 95vw;
+  height: 95vh;
+}
+body .clock {
+  width: 500px;
+  height: 500px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  border: 3px solid black;
+}
+body .clock h1 {
+  font-size: 70px;
+}/*# sourceMappingURL=main.css.map */
